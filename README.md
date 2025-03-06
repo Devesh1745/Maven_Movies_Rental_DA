@@ -48,12 +48,12 @@ Highlight gaps in the inventory and optimize stock levels.
 
 3. "How can we categorize all movies based on their rental rates and determine the count of movies in each category?"
 
-<img src="./IMAGES/TOTAL_NO_OF_MOVIES.png" alt="TOTAL_NO_OF_MOVIES.png" width="400"/> &nbsp;
+<img src="Code_Outputs/TOTAL_NO_OF_MOVIES.png" alt="TOTAL_NO_OF_MOVIES.png" width="400"/> &nbsp;
 
 
 4. "Which movie rating (e.g., PG, PG-13, R) has the highest number of titles in the inventory, and how can this information help optimize inventory management?"
 
-<img src="./IMAGES/rating_wise_count.png" alt="rating_wise_count.png" width="400"/> &nbsp;
+<img src="Code_Outputs/rating_wise_count.png" alt="rating_wise_count.png" width="400"/> &nbsp;
 
 
 5. "What is the total count of PG-rated movies that have been rented, and what does this indicate about customer preferences?"
