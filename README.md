@@ -32,7 +32,7 @@ Highlight gaps in the inventory and optimize stock levels.
 <img src="Code_Outputs/mysql_img.png" alt="mysql_img.png" width="300"/> &nbsp;
 
 # Project Result
-[Click here to get full code](https://github.com/Devesh1745/Maven_Movies_Rental_DA/blob/main/maven_movies_code.sql)
+[Click here to get full code](maven_movies_solve_code.sql)
 
 # Query Task
 
