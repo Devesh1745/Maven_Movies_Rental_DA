@@ -74,19 +74,19 @@ Highlight gaps in the inventory and optimize stock levels.
 
 9. "Can we identify the store with the highest historical revenue, and how does it compare to others in the same region?"
 
-<img src="Code_Outputs/MOST_REVENUE.png.png" alt="MOST_REVENUE.png" width="400"/> &nbsp;
+<img src="Code_Outputs/MOST_REVENUE.png" alt="MOST_REVENUE.png" width="400"/> &nbsp;
 
 10. "How many movie rentals did we have in total each month over the past year?"
 
-<img src="Code_Outputs/RENTALS_PER_MONTH.png.png" alt="RENTALS_PER_MONTH.png" width="400"/> &nbsp;
+<img src="Code_Outputs/RENTALS_PER_MONTH.png" alt="RENTALS_PER_MONTH.png" width="400"/> &nbsp;
 
 11. "How do we determine the rewards for users who have rented 30 or more times, and what details about their preferences should we consider?"
 
-<img src="Code_Outputs/REWARD_VIA_PHONE.png.png" alt="REWARD_VIA_PHONE.png" width="400"/> &nbsp;
+<img src="Code_Outputs/REWARD_VIA_PHONE.png" alt="REWARD_VIA_PHONE.png" width="400"/> &nbsp;
 
 12. "Could you pull all payments from our first 100 customers (Based on customers id)"
 
-<img src="Code_Outputs/FIRST_100_CUSTOMER_PAYMENTS.png.png" alt="FIRST_100_CUSTOMER_PAYMENTS.png" width="400"/> &nbsp;
+<img src="Code_Outputs/FIRST_100_CUSTOMER_PAYMENTS.png" alt="FIRST_100_CUSTOMER_PAYMENTS.png" width="400"/> &nbsp;
 
 13. "Now I’d love to see just payments over $5 for those same customers, since January 1, 2006"
 
@@ -102,15 +102,15 @@ Highlight gaps in the inventory and optimize stock levels.
 
 16. "Which customer qualifies as the top spender, and what rewards or points should we offer them?"
 
-<img src="Code_Outputs/MOST_SPENDING_CUSTOMER.png.png" alt="MOST_SPENDING_CUSTOMER.png" width="400"/> &nbsp;
+<img src="Code_Outputs/MOST_SPENDING_CUSTOMER.png" alt="MOST_SPENDING_CUSTOMER.png" width="400"/> &nbsp;
 
 17. "Could you please pull a count of titles sliced by rental duration?"
 
-<img src="Code_Outputs/SLICED_BY_RENTAL_RATE.png.png" alt="SLICED_BY_RENTAL_RATE.png" width="400"/> &nbsp;
+<img src="Code_Outputs/SLICED_BY_RENTAL_RATE.png" alt="SLICED_BY_RENTAL_RATE.png" width="400"/> &nbsp;
 
 18. "How do movie ratings and lengths correlate with rental demand (number of movies rented) across various rental periods?"
 
-<img src="Code_Outputs/COMPARE_WITH_RENTAL_DURATION.png.png" alt="COMPARE_WITH_RENTAL_DURATION.png" width="400"/> &nbsp;
+<img src="Code_Outputs/COMPARE_WITH_RENTAL_DURATION.png" alt="COMPARE_WITH_RENTAL_DURATION.png" width="400"/> &nbsp;
 
 19. "I’m wondering if we charge more for a rental when the replacement cost is higher. Can you help me pull a count of films, along with the average, min, and max rental rate, grouped by replacement cost?"
 
