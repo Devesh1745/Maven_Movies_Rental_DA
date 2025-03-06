@@ -62,7 +62,7 @@ Highlight gaps in the inventory and optimize stock levels.
 
 6. "Can you provide a list of films categorized by their genre, along with their language and film name?"
 
-<img src="Code_Outputs/TLC.png"TLC.png" width="400"/> &nbsp;
+<img src="Code_Outputs/TLC.png" alt="TLC.png"  width="400"/> &nbsp;
 
 7. "Can you provide a list of movies and the number of times each has been rented out?"
 
